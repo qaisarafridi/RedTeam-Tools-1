@@ -8,7 +8,7 @@ This github repository contains a collection of **125+** **tools** and **resourc
 
 Some of the tools may be specifically designed for red teaming, while others are more general-purpose and can be adapted for use in a red teaming context.
 
-> 🔗 If you are a Blue Teamer, check out [BlueTeam-Tools](https://github.com/A-poc/BlueTeam-Tools)
+> 🔗 If you are a Blue Teamer, check out [BlueTeam-Tools](https://github.com/qaisarafridi/BlueTeam-Tools)
 
 > **Warning** 
 > 
